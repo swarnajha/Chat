@@ -1,0 +1,16 @@
+{
+  "name": "mongo-chat",
+  "version": "1.0.0",
+  "description": "Simple chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "meow",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.13",
+    "socket.io": "^2.5.0"
+  }
+}
